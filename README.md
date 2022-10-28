@@ -1,0 +1,2 @@
+# EmailJS_sample
+社内の研修生に向けたEmailJSを使用したブラウザからのメール送信手順
