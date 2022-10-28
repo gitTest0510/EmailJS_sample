@@ -296,3 +296,11 @@ VSCodeで拡張機能の「Live Sever」入れてないのであれば入れと�
 ![image-20221029060038263](EmailJS.assets/image-20221029060038263.png)
 
 - 終了
+
+
+
+参考サイト
+
+[ブラウザのJavaScriptから直接メールを送れるPaaS、EmailJS](https://qiita.com/silane1001/items/6d0f6d8e920208a55f33)
+
+[emailjs.send](https://www.emailjs.com/docs/sdk/send/)
